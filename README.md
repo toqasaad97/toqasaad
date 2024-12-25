@@ -1,11 +1,11 @@
-# Hi there! 👋  
+# Hi there! 👋
 
-I’m a pharmacist and self-taught web developer passionate about building functional and creative web applications.  
+I’m Toqa, a pharmacist and self-taught web developer from Cairo, Egypt. I’m passionate about building creative and functional web apps.
 
 ## About Me  
-- 🎓 Background in Pharmacy with a Master's in Oncology.  
-- 💻 Currently learning React, Next.js, and TypeScript.  
-- 🌟 Focused on creating user-friendly web projects.  
+- 🎓 Pharmacy background with a Master’s in Oncology  
+- 💻 Currently learning React, Next.js, and TypeScript  
+- 🌟 Focused on creating user-friendly web projects
 
 ## Tech Stack  
 - Languages: JavaScript, HTML, CSS  
@@ -13,6 +13,6 @@ I’m a pharmacist and self-taught web developer passionate about building funct
 
 ## Contact  
 - 📧 Email: [toqasaad1997@gmail.com]  
-- 🌐 LinkedIn: [https://www.linkedin.com/in/toqa-saad/]  
+- 🌐 LinkedIn: [Toqa Saad](https://www.linkedin.com/in/toqa-saad/)
 
 Thanks for visiting my profile!
